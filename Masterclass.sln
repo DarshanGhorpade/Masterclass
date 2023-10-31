@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.916
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Masterclass.Revit.SharedProject", "Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.shproj", "{A658E5B8-73E0-4525-965A-521664F6FA95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterclass.Revit.2022", "Masterclass.Revit.2022\Masterclass.Revit.2022.csproj", "{CF0E3A71-04D2-4034-BCFA-E433C326AC1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterclass.Revit.2021", "Masterclass.Revit.2021\Masterclass.Revit.2021.csproj", "{5DB3F1E9-5848-490F-96D3-96022BFED4D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterclass.Revit.2023", "Masterclass.Revit.2023\Masterclass.Revit.2023.csproj", "{4E6DBA78-20EB-4855-976D-3BC87C6FA166}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterclass.Revit.2024", "Masterclass.Revit.2024\Masterclass.Revit.2024.csproj", "{768AD841-1B32-45D9-8E0E-301FED06727F}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{4e6dba78-20eb-4855-976d-3bc87c6fa166}*SharedItemsImports = 4
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{5db3f1e9-5848-490f-96d3-96022bfed4d7}*SharedItemsImports = 4
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{768ad841-1b32-45d9-8e0e-301fed06727f}*SharedItemsImports = 4
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{a658e5b8-73e0-4525-965a-521664f6fa95}*SharedItemsImports = 13
+		Masterclass.Revit.SharedProject\Masterclass.Revit.SharedProject.projitems*{cf0e3a71-04d2-4034-bcfa-e433c326ac1c}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF0E3A71-04D2-4034-BCFA-E433C326AC1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF0E3A71-04D2-4034-BCFA-E433C326AC1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF0E3A71-04D2-4034-BCFA-E433C326AC1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF0E3A71-04D2-4034-BCFA-E433C326AC1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DB3F1E9-5848-490F-96D3-96022BFED4D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB3F1E9-5848-490F-96D3-96022BFED4D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB3F1E9-5848-490F-96D3-96022BFED4D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB3F1E9-5848-490F-96D3-96022BFED4D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E6DBA78-20EB-4855-976D-3BC87C6FA166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E6DBA78-20EB-4855-976D-3BC87C6FA166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E6DBA78-20EB-4855-976D-3BC87C6FA166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E6DBA78-20EB-4855-976D-3BC87C6FA166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768AD841-1B32-45D9-8E0E-301FED06727F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768AD841-1B32-45D9-8E0E-301FED06727F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768AD841-1B32-45D9-8E0E-301FED06727F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768AD841-1B32-45D9-8E0E-301FED06727F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7313A9C0-B814-4818-A94C-95E2AD7BC24F}
+	EndGlobalSection
+EndGlobal
